@@ -41,4 +41,5 @@ group :test do
   gem 'capybara'
   gem 'factory_girl'
   gem 'devise', '1.2.rc'
+  gem 'email_spec'
 end
